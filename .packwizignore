@@ -3,3 +3,5 @@ LICENSE
 .github/
 .gitattributes
 *.mrpack
+renovate.json
+.remember/
