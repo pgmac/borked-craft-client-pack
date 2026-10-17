@@ -1,0 +1,34 @@
+name: release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  mrpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-go@b7ad1dad31e06c5925ef5d2fc7ad053ef454303e # v7.0.0
+        with:
+          go-version: stable
+          cache: false
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@170b22d785959dda5876b54b7f16e1b807a57fb6
+      - name: Check tag matches pack.toml version
+        run: |
+          version=$(sed -n 's/^version = "\(.*\)"$/\1/p' pack.toml)
+          if [ "v${version}" != "${GITHUB_REF_NAME}" ]; then
+            echo "::error::tag ${GITHUB_REF_NAME} does not match pack.toml version ${version}"
+            exit 1
+          fi
+      - name: Export .mrpack
+        run: |
+          "$(go env GOPATH)/bin/packwiz" modrinth export -o "borked-craft-client-${GITHUB_REF_NAME}.mrpack"
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "${GITHUB_REF_NAME}" "borked-craft-client-${GITHUB_REF_NAME}.mrpack" --generate-notes
