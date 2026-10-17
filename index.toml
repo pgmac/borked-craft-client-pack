@@ -1,0 +1,231 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/itemswapper.json"
+hash = "9b69e5e6fb1393b84510fde6998fc5c53437b9fb2fdb32144340818a0d544b09"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/locator-heads.json"
+hash = "3dca55c3514c5c2055fb12a9a41b0b508ff2a3285ea45ec2e38b72bf79a1c4ec"
+
+[[files]]
+file = "config/peek/peek.properties"
+hash = "798ea6cad27eeaf22a6ec21f45512066e517c1233a2a155eff30e0d12db8131a"
+
+[[files]]
+file = "config/raised.json"
+hash = "43006f6ee9918478eef10669dcb8262466c5459745b329568e2db4053e1b69c2"
+
+[[files]]
+file = "config/respackopts/_respackopts.conf"
+hash = "8e42c76481421e2b3f3c83481e3920319b78b69c6c987e02e4c52bc7ea4e1be4"
+
+[[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "b161733244a2e5f87e81fb11dac35d85f887a1011d4c5855e33fc4965da2b8e1"
+
+[[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "818e8222f36d26f644bada90b3c40fdf97a6d2d4fd0f9cf9f48320a28ecdaa6f"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "ae0c10c368609537d6fadb302d020083268923b8cd7b8aac1dc95c1fcf2929fd"
+metafile = true
+
+[[files]]
+file = "mods/bigsignwriter.pw.toml"
+hash = "640537954cbd0b231acbad79821d544db702b5c971cc2c14c59f1df95c4abec8"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "7412c982b4fb5331fdceec4edc1d26746e4c62fbda5bad1f8789ed5e27d7adbb"
+metafile = true
+
+[[files]]
+file = "mods/bundles-beyond.pw.toml"
+hash = "e5b55944711721c8309bef87f2e0ac8ebcb6cb57864808c8ccad5529625a7935"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "324823395e2b12c2cb23e671ffb505eec94000770ca05d930502fd1d307a7d78"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7959f11cce0c14ffae150d4a3126b04b70b0af815d25453110d2a8408011e9cb"
+metafile = true
+
+[[files]]
+file = "mods/chat-signing-hider.pw.toml"
+hash = "cbe961f272242619ddaa4c4b10e19e2b04cee8830ca8661032193b5e1b13c252"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-anvils.pw.toml"
+hash = "1f7f0a2cc8e18e7a56a1a8de0fdd05c5190276ea5738dbcb287fa631f92c5ca0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "249b9a3bfcb8a23719e656abb121094e63c6d88eeab08f2fbd8ae569948d5303"
+metafile = true
+
+[[files]]
+file = "mods/flashback.pw.toml"
+hash = "34a7b3bd30d26c585638537c7a84281fce92b7e4054f1e76978a000895f97a5a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3eb12471fce0aadbda432f7fd5ba4e2120e0e0ebbb3663eea756a17ec0254407"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "c22fcc6aa11d759af4546582764d5da52c50bf2cef4a98bacd0175b0b728cfff"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "cd91c7298cfdb76d520f7b612cb426df3d9e10a84431a0153bf0f61fa3479885"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "bed8aeaec1b9105540430b612aa921be357141c56f2887101f8bd9677e289bc2"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "5f52a5a69d6ea21c65a9df879fb9b334ed2aaf3ddb50bf13c9e2a57cc079a50d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
+metafile = true
+
+[[files]]
+file = "mods/locator-heads.pw.toml"
+hash = "a8c2641bfbe4758d8d33f21b926f5cec48cb555becaded7cd6f0de2fc2bf0f91"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "aa19aaf146fb03f895583147e1906b950c9acc2c31a16110d3764401a65a79e1"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "3cc0adb13783202ba6b53fdfc3a0dfed4b9d0e95c9c186a4796b3530c2d83c13"
+metafile = true
+
+[[files]]
+file = "mods/model-browser.pw.toml"
+hash = "89251602c2da27df8f7a14891d4ad93fe7cc0e51d27cd9a9c9671a90677fe57f"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "c31931e31508be2547b889254b8c4d1e4642b15fa39dc4894aad8ff6da3493ed"
+metafile = true
+
+[[files]]
+file = "mods/peek.pw.toml"
+hash = "fc55a57f2a3e5b3f044baf080829c9f5b26ed5eb98097532e845da6019a2f379"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "074d017368a83da7616a8850ed03de01795f21bdf06c11c302e96b264a5e39d9"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "d2f02f516aad0084512313411eec04cecc9d6114ffeb394e254beb55b3f15e17"
+metafile = true
+
+[[files]]
+file = "mods/scribble.pw.toml"
+hash = "2366e2933c3f3000b738378160f3219f34e9dcd8e7b1df365e4ebc90e0fb2895"
+metafile = true
+
+[[files]]
+file = "mods/server-resource-pack-checker.pw.toml"
+hash = "540f73997f5e73301c65ff8d95f014e78fbbb0737dcf8d9fe47460445ad8303e"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "a60445c98a3a1412a6429357cb70302af6505165049f57f29b81b1489c4673b9"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "538084be8eddcd5e682ab52c5d2a8d7ba956e1a25cd540389430c25d0eaa513d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0bf314c578473659bd89915114cac8e60994988f405218726a48d35b06e9316c"
+metafile = true
+
+[[files]]
+file = "mods/status.pw.toml"
+hash = "83795e593fba3a062471bf35f148deba6abb2972b0ae4d9fa60e9af17610e04d"
+metafile = true
+
+[[files]]
+file = "mods/voxy-server-side.pw.toml"
+hash = "2f9e52ece1cbbf856d1ce429422f96c32ea35ae78e57ae3a87afc64bc570cb42"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "7a5c3bfa2b6572c8e2d859e77798fdad5c69bdc027e4040d4f98f53e812875a5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "2370e1441f428ef911b96cb4511c938a7a327a2fa97045949c5530da1c0635e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Redstone Tweaks 2.5.6.zip.rpo"
+hash = "6202e6093dd7fbdb96f0855a78d972cb9b5a3941630b8821b79f764806a8e6ba"
+
+[[files]]
+file = "resourcepacks/Xisuma's VT 26.2 V4.zip"
+hash = "0011ab19a44ceca3a114841c5766e32fbc2dbcc5a456c7d422cf08fdf1986ce1"
+
+[[files]]
+file = "resourcepacks/Xisuma_Bushy_Leaves_v1.2.zip"
+hash = "82066a8a79fc6fffcede4eb32e1f7fdf8f437f13af1bcffb2afe185b6f8b89ab"
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "bdd44a1e95a9f71075abe129a4ea5395d08e7ca66fe2269621916ddbfd766bd2"
+metafile = true

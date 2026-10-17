@@ -1,0 +1,13 @@
+name = "BorkedCraft Client"
+author = "pgmac"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7d0ed24c535ea28c7cfccd5a2bc0ca1cd1898ddfb210019337ebda462b96226c"
+
+[versions]
+fabric = "0.20.0"
+minecraft = "26.3"

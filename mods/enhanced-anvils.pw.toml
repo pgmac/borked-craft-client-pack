@@ -1,0 +1,18 @@
+name = "Enhanced Anvils"
+filename = "EnhancedAnvils-fabric-26.3-0.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OzW9ppLC/versions/tt9q9j47/EnhancedAnvils-fabric-26.3-0.7.1.jar"
+hash-format = "sha512"
+hash = "850ed43dcd064b7e278fe4a389ddfd4730a03cd6d71370f1d6bdbedafd72960f70ce487c65b4b08293c9827f96b77e14de694531a65d56c6631ee6df3386e677"
+
+[update]
+[update.modrinth]
+mod-id = "OzW9ppLC"
+version = "tt9q9j47"
+
+[option]
+optional = true
+default = false
+description = "Anvil tweaks. Shipped disabled in upstream Xisuma pack."
